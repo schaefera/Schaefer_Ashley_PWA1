@@ -12,22 +12,22 @@ body{
 	height: 100%;
 }
 
-#diablo{
+#death{
 	margin: 0px 0px 0px 15%;
 	float:left;
 }
 
-#death{
+#diablo{
 	margin: 0px 0px 0px 59%;
 	float:left;
 }
 
-#diablo p{
+#death p{
 	font-family: arial;
 	font-size:  25px;
 }
 
-#death p{
+#diablo p{
 	font-family: arial;
 	font-size:  25px;
 }
